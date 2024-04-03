@@ -23,7 +23,7 @@ npm start
 
 ## Netlify Deployed Link of the project: https://mannpatel-csci6406-project.netlify.app  
 
-                     Or
+  
 
 ### Run these commands to run and build the project
 ### `npm start`
