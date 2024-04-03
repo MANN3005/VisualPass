@@ -1,7 +1,7 @@
 # Introduction
-```
+
 VisualPass is a web-based soccer passing analyser designed to provide valuable insights into passing patterns, ball coordinates, player interactions, and key actions in soccer matches Leveraging the Wyscout dataset, VisualPass contributes to sports visualization research by offering a unique perspective on soccer strategies and player performances. Implemented using React, D3.js, Python, and Tailwind CSS, VisualPass provides interactive and dynamic visualizations that enhance the understanding of soccer tactics. This project showcases the potential of advanced visualization techniques in sports analysis, paving the way for future advancements in soccer analytics
-```
+
 <h2>
 This project was made by Mann Patel (B00951709) as a part of CSCI6406 Visualization Final Project. </h2>
 
